@@ -25,6 +25,5 @@ Your name/Email
 
 This research was performed in the [HydroSense Lab](https://hydrosenselab.github.io/) of the Department of Civil Engineering, Indian Institute of Technology. The following people have contributed to the project:
 
-- Dr. Manabendra Saharia
 - Ms. Shreya Gupta
-
+- Dr. Manabendra Saharia
