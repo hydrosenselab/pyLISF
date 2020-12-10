@@ -1,6 +1,6 @@
 # Project Name
 
-This project does this...
+This project helps us produce animation for LIS data.
 
 And contains the data and analysis required to produce the results in the following manuscript:
 
@@ -14,6 +14,8 @@ This project utilizes
 - `matplotlib`, `seaborn`- For plotting.
 - `glob` - For selecting multiple files.
 - `xarray` - To work with `netCDF` files.
+- `matplotlib` - For plotting the data.
+- `cartopy` - To add administrative boundries.
 
 # Contact
 
@@ -23,5 +25,5 @@ Your name/Email
 
 This research was performed in the [HydroSense Lab](https://hydrosenselab.github.io/) of the Department of Civil Engineering, Indian Institute of Technology. The following people have contributed to the project:
 
-- Dr. 1
-- Ms. 2
+- Dr. Manabendra Saharia
+- Ms. Shreya Gupta
